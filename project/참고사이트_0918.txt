@@ -1,0 +1,27 @@
+파일정리
+001_project_proposal.pptx (기획자)
+002_requirement.xlsx (기획자)
+003_API_design.xlsx (서버개발자)
+004_mobile_prototype.pdf(기획자)
+004_web_prototype.pdf(기획자)
+005_database_design.xlsx(서버개발자)
+006_development_guide.hwp(기획자)
+007_design_guide.pptx(기획자)
+
+문서 작성 순서
+002 > 004 > 007 > 006 > 001 > 003 > 005 
+
+디자인 개발 시기
+007번을 보고 디자인을 시작하면 됨
+
+서버 개발자
+007번과 006번이 완료되고 나면 개발 시작
+
+카카오오븐
+https://ovenapp.io/
+
+온라인 다이어그램 디자인
+http://staruml.io/
+https://app.diagrams.net/
+
+
